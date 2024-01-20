@@ -1,0 +1,14 @@
+
+# Modification date: Tue Jun 14 00:34:14 2022
+
+# Production date: Sun Sep  3 15:44:14 2023
+
+Tuşlar:
+-Müzik değiştirmek için ok tuşlarını kullan.
+-Arkaplan sesini kapatmak için boşluk tuşuna bas.
+-Programı kapatmak için esc tuşuna bas.
+
+Not: Müzikleri music klasöründen ayarlayabilirsin.
+Not2: Şaka maka bundan iyi oyun sonu olur.
+Not3: Bu programı biz o araba konuşmasını yapmadan çoook önceden yapmıştım(birkaç gün öncesi falan).
+Not4: Programların eskiden yeniye(kötüden iyiye) sıralanışı: main(eski), main, main_version_2.
